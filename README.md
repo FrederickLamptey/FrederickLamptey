@@ -14,3 +14,7 @@ HTML, CSS, Python, Java, Maven, Linux, Bash Shell Scripting, Tomcat, Git, Sonarq
 ## You Want To Reach Me?
 
 📫 How to reach me: Follow me on instagram @real_dinero1 :wink:
+
+# Certification 
+Have you played the Discover your typographic superpower? If yes, what's your superpower? Weell, this is mine:
+![friendly-superpower-xs](https://user-images.githubusercontent.com/102755255/191628787-c76698ac-0f54-49da-8746-4675be693d47.png)
